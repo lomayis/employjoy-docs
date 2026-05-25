@@ -52,3 +52,4 @@ docs/
     ├── openapi.yaml   # Downloadable OpenAPI 3.0
     └── logo.svg       # Site logo
 ```
+
